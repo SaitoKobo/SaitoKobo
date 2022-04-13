@@ -10,14 +10,14 @@
 <br />
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaitoKobo&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SaitoKobo&show_icons=true&theme=gotham&count_private=true">
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaitoKobo&column=7&theme=onedark" />
 </div>
 
 <br />
